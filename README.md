@@ -20,7 +20,7 @@ This project applies predictive maintenance techniques for turbofan engines usin
 - **Cost Analysis**: Visualizes optimal maintenance costs based on failure and operational cost scenarios using heatmaps.
 
 ## How to Run
-1. Clone the repository and open the Jupyter notebook `Livrable_Pole_Projet_Gr_8.ipynb`.
+1. Clone the repository and open the Jupyter notebook `poleProjet.ipynb`.
 2. Install the required Python libraries such as `feature-engine`, `xgboost`, `pandas`, and `matplotlib`.
 3. Run the notebook cells sequentially to reproduce the results.
 
